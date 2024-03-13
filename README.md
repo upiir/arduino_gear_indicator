@@ -1,9 +1,9 @@
 # Arduino UNO Gear Indicator for Manual Transmission using Hall Sensors
 Arduino UNO Gear Indicator for Manual Transmission using Hall Sensors
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/QixtxaAda18**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/392232701520726017**
 
 
 Links from the video:
@@ -38,6 +38,7 @@ Small Animations:
 
 
 Screenshots from the video:
+
 
 
 
