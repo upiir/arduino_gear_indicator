@@ -37,7 +37,8 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 - Save Image from OLED Display to PC - https://youtu.be/Ft2pRMVm44E
 
 
-Small Animations:
+Small Animation:
+![arduino_gear_indicator](https://github.com/upiir/arduino_gear_indicator/assets/117754156/57929bae-6e49-4d7a-a379-d5ac6d5b4ff9)
 
 
 Screenshots from the video:
