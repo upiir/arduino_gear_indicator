@@ -6,6 +6,9 @@ Arduino UNO Gear Indicator for Manual Transmission using Hall Sensors
 **WOKWI sketch: https://wokwi.com/projects/392232701520726017**
 
 
+![THUMB_arduino_gear_indicator_2](https://github.com/upiir/arduino_gear_indicator/assets/117754156/b93e7176-d758-4ca8-81b9-18b57a6f6800)
+
+
 Links from the video:
 - AH3503 Hall Sensor : https://s.click.aliexpress.com/e/_DEYCKSl
 - Round magnets: https://s.click.aliexpress.com/e/_DEzBT9B
