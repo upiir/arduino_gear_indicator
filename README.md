@@ -37,6 +37,9 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 - Save Image from OLED Display to PC - https://youtu.be/Ft2pRMVm44E
 
 
+_This video is sponsored by PCBWay. If you use this link, you can get 10PCBs for free and only pay for shipping. At the same time, you will support my YouTube channel and I will record more videos. https://www.pcbway.com/setinvite.aspx?inviteid=572577_
+
+
 Small Animation:
 
 ![arduino_gear_indicator](https://github.com/upiir/arduino_gear_indicator/assets/117754156/57929bae-6e49-4d7a-a379-d5ac6d5b4ff9)
