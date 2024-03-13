@@ -1,5 +1,5 @@
 # Arduino UNO Gear Indicator for Manual Transmission using Hall Sensors
-Arduino UNO Gear Indicator for Manual Transmission using Hall Sensors
+Learn how to create a simple gear indicator for the manual transmission of the car. For that, we will use Arduino UNO with SSD1306 128x64px IIC OLED screen and 4 Hall Sensors to measure the magnetic field of the magnet placed on the shifter handle. All the images are drawn in Photopea and converted into C-style arrays using the Image2cpp utility. For a WOKWI simulation, potentiometers are used instead of Hall sensors for testing (since WOKWI does not support Hall sensors). We will also create a custom PCB in KiCad and get it manufactured by PCBWay. If you want to follow along, having some wires and a breadboard is helpful. Good luck with your project!
 
 **YouTube video: https://youtu.be/QixtxaAda18**
 
