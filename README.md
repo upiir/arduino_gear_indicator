@@ -11,6 +11,7 @@ Learn how to create a simple gear indicator for the manual transmission of the c
 
 Links from the video:
 - Do you like this video? You can buy me a coffee: https://www.buymeacoffee.com/upir
+- Order PCB from PCBWay: https://www.pcbway.com/project/shareproject/Arduino_UNO_Gear_Indicator_for_manual_transmission_PCB_85df5da0.html
 - AH3503 Hall Sensor: https://s.click.aliexpress.com/e/_DEYCKSl
 - Round magnets: https://s.click.aliexpress.com/e/_DEzBT9B
 - Shifter handle: https://s.click.aliexpress.com/e/_DddI3NR
