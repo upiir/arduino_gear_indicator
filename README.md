@@ -14,7 +14,7 @@ Links from the video:
 - Order PCB from PCBWay: https://www.pcbway.com/project/shareproject/Arduino_UNO_Gear_Indicator_for_manual_transmission_PCB_85df5da0.html
 - AH3503 Hall Sensor: https://s.click.aliexpress.com/e/_DEYCKSl
 - Round magnets: https://s.click.aliexpress.com/e/_DEzBT9B
-- Shifter handle: https://s.click.aliexpress.com/e/_DddI3NR
+- Shifter handle: https://s.click.aliexpress.com/e/_DCGkzoD
 - 128x64 SSD1306 OLED Display 1.54": https://s.click.aliexpress.com/e/_DCYdWXb 
 - 128x64 SSD1306 OLED Display 0.96": https://s.click.aliexpress.com/e/_DCKdvnh
 - 128x64 SSD1306 OLED Display 2.42": https://s.click.aliexpress.com/e/_DFdMoTh
